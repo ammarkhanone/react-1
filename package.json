@@ -1,0 +1,11 @@
+{
+  "name": "react-1",
+  "version": "1.0.0",
+  "description": "React dashboard with Tailwind CSS styling",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "nodemon index.ts"
+  },
+  "dependencies": {}
+}
